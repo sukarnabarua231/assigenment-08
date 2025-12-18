@@ -1,0 +1,223 @@
+[
+  {
+    "image": "https://i.ibb.co/jdggvM0/chatgo.png",
+    "title": "ChatGo",
+    "companyName": "GoTech Ltd",
+    "id": 101,
+    "description": "Fast and secure messaging app with voice and video calling.",
+    "size": 28,
+    "reviews": 1850,
+    "ratingAvg": 4.6,
+    "downloads": 120000
+  },
+  {
+    "image": "https://i.ibb.co/nsJJvsRB/fitlife.png",
+    "title": "FitLife",
+    "companyName": "HealthCore",
+    "id": 102,
+    "description": "Workout plans, calorie tracking, and fitness progress monitoring.",
+    "size": 42,
+    "reviews": 1320,
+    "ratingAvg": 4.4,
+    "downloads": 98000
+  },
+  {
+    "image": "https://i.ibb.co/8gcZjWKx/foodio.png",
+    "title": "Learnly",
+    "companyName": "EduNext",
+    "id": 103,
+    "description": "Online learning app with video courses and quizzes.",
+    "size": 35,
+    "reviews": 2400,
+    "ratingAvg": 4.7,
+    "downloads": 200000
+  },
+  {
+    "image": "https://i.ibb.co/Hpn6rYwg/payfast.png",
+    "title": "PayFast",
+    "companyName": "FinPay",
+    "id": 104,
+    "description": "Mobile wallet for fast payments, transfers, and bill pay.",
+    "size": 30,
+    "reviews": 3100,
+    "ratingAvg": 4.3,
+    "downloads": 350000
+  },
+  {
+    "image": "https://i.ibb.co/8gcZjWKx/foodio.png",
+    "title": "Foodio",
+    "companyName": "QuickBite",
+    "id": 105,
+    "description": "Order food from nearby restaurants with live tracking.",
+    "size": 55,
+    "reviews": 4200,
+    "ratingAvg": 4.1,
+    "downloads": 500000
+  },
+  {
+    "image": "https://i.ibb.co/Z1JcnnSX/picsnap.png",
+    "title": "PicSnap",
+    "companyName": "Creative Labs",
+    "id": 106,
+    "description": "Photo editor with filters, AI effects, and stickers.",
+    "size": 65,
+    "reviews": 1980,
+    "ratingAvg": 4.5,
+    "downloads": 220000
+  },
+  {
+    "image": "https://i.ibb.co/1f8gTrZq/weatherx.png",
+    "title": "WeatherX",
+    "companyName": "SkySoft",
+    "id": 107,
+    "description": "Real-time weather updates and severe weather alerts.",
+    "size": 20,
+    "reviews": 890,
+    "ratingAvg": 4.0,
+    "downloads": 110000
+  },
+  {
+    "image": "https://i.ibb.co/YgmY5Jc/notely.png",
+    "title": "Notely",
+    "companyName": "SmartTools",
+    "id": 108,
+    "description": "Simple and powerful note-taking app with cloud sync.",
+    "size": 15,
+    "reviews": 1450,
+    "ratingAvg": 4.6,
+    "downloads": 160000
+  },
+
+  {
+    "image": "https://i.ibb.co/jdggvM0/chatgo.png",
+    "title": "ChatGo Lite",
+    "companyName": "GoTech Ltd",
+    "id": 109,
+    "description": "Lightweight version of ChatGo for low-end devices.",
+    "size": 18,
+    "reviews": 720,
+    "ratingAvg": 4.3,
+    "downloads": 90000
+  },
+  {
+    "image": "https://i.ibb.co/nsJJvsRB/fitlife.png",
+    "title": "FitLife Pro",
+    "companyName": "HealthCore",
+    "id": 110,
+    "description": "Advanced fitness tracking with AI-based insights.",
+    "size": 50,
+    "reviews": 1680,
+    "ratingAvg": 4.6,
+    "downloads": 150000
+  },
+  {
+    "image": "https://i.ibb.co/Z1JcnnSX/picsnap.png",
+    "title": "PicSnap Studio",
+    "companyName": "Creative Labs",
+    "id": 111,
+    "description": "Professional photo editing with RAW support.",
+    "size": 90,
+    "reviews": 1120,
+    "ratingAvg": 4.7,
+    "downloads": 130000
+  },
+  {
+    "image": "https://i.ibb.co/Hpn6rYwg/payfast.png",
+    "title": "PayFast Business",
+    "companyName": "FinPay",
+    "id": 112,
+    "description": "Payment solutions for small and medium businesses.",
+    "size": 40,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 87000
+  },
+  {
+    "image": "https://i.ibb.co/1f8gTrZq/weatherx.png",
+    "title": "WeatherX Pro",
+    "companyName": "SkySoft",
+    "id": 113,
+    "description": "Extended forecasts with satellite and radar maps.",
+    "size": 28,
+    "reviews": 640,
+    "ratingAvg": 4.1,
+    "downloads": 75000
+  },
+  {
+    "image": "https://i.ibb.co/YgmY5Jc/notely.png",
+    "title": "Notely Plus",
+    "companyName": "SmartTools",
+    "id": 114,
+    "description": "Notes with task management and reminders.",
+    "size": 22,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 98000
+  },
+  {
+    "image": "https://i.ibb.co/8gcZjWKx/foodio.png",
+    "title": "Foodio Rider",
+    "companyName": "QuickBite",
+    "id": 115,
+    "description": "Delivery partner app for Foodio riders.",
+    "size": 38,
+    "reviews": 520,
+    "ratingAvg": 4.0,
+    "downloads": 65000
+  },
+  {
+    "image": "https://i.ibb.co/jdggvM0/chatgo.png",
+    "title": "ChatGo Kids",
+    "companyName": "GoTech Ltd",
+    "id": 116,
+    "description": "Safe messaging app designed for kids.",
+    "size": 24,
+    "reviews": 430,
+    "ratingAvg": 4.4,
+    "downloads": 58000
+  },
+  {
+    "image": "https://i.ibb.co/nsJJvsRB/fitlife.png",
+    "title": "FitLife Yoga",
+    "companyName": "HealthCore",
+    "id": 117,
+    "description": "Yoga routines and guided meditation sessions.",
+    "size": 33,
+    "reviews": 760,
+    "ratingAvg": 4.6,
+    "downloads": 82000
+  },
+  {
+    "image": "https://i.ibb.co/Z1JcnnSX/picsnap.png",
+    "title": "PicSnap AI",
+    "companyName": "Creative Labs",
+    "id": 118,
+    "description": "AI-powered photo enhancement and restoration.",
+    "size": 70,
+    "reviews": 1340,
+    "ratingAvg": 4.8,
+    "downloads": 190000
+  },
+  {
+    "image": "https://i.ibb.co/YgmY5Jc/notely.png",
+    "title": "Notely Teams",
+    "companyName": "SmartTools",
+    "id": 119,
+    "description": "Collaborative notes for teams and organizations.",
+    "size": 27,
+    "reviews": 610,
+    "ratingAvg": 4.3,
+    "downloads": 54000
+  },
+  {
+    "image": "https://i.ibb.co/Hpn6rYwg/payfast.png",
+    "title": "PayFast Secure",
+    "companyName": "FinPay",
+    "id": 120,
+    "description": "Extra-secure payments with biometric protection.",
+    "size": 34,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 102000
+  }
+]
