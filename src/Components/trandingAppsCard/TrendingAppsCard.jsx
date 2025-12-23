@@ -7,7 +7,7 @@ const TrendingAppsCard = ({product}) => {
     console.log(product)
     console.log(product.image)
     return (
-      <Link to='/appsDetails'> <div className="card bg-base-100 p-5 shadow-sm hover:scale-105 transition ease-in-out">
+      <Link to={`/appDetails/${product.id}`}> <div className="card bg-base-100 p-5 shadow-sm hover:scale-105 transition ease-in-out">
   <figure>
     <img  className='w-full rounded-lg' src= {product.image} alt={product.title} />
   </figure>
