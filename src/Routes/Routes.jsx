@@ -23,8 +23,9 @@ export const router = createBrowserRouter([
           loader: () => fetch('/trendingAppsData.json'),
         },
          {
-          path:'/appsDetails',
+          path:'/appDetails/:id',
           Component:AppDetailsPage,
+           loader: () => fetch('/trendingAppsData.json'),
         }
     ]
   },
